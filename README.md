@@ -60,13 +60,20 @@ This is bad because it is not very easy on the eyes, and the order is confusing
 
 
 
-List your most common features and other more rare uses of a car dashboards.
--checking my speed, checking the gas tank, and checking tire pressure
--more rare uses, checking the temperature outside, and the rpm's (I never look at these) 
+# List your most common features and other more rare uses of a car dashboards.
+### Checking my speed, checking the gas tank, and checking tire pressure, check engine light, check if the trunk or doors are open , check mileage
+
+### More rare uses, checking the temperature outside, and the rpm's (I never look at these), or check music
 
 
-List the controls that the user interacts with the car dashboards.
+# List the controls that the user interacts with the car dashboards.
+### Turn signals, windsheild wipers, the gear shifter, and the door and trunk opening 
 
 
-What are some common mistakes you can make with this current designs?
-Suggest the improvements to make on the control interface. Sketch your solution and justify your design decisions.
+# What are some common mistakes you can make with this current designs?
+### With this current design it might be confusing to understand what the symbols mean, you may have to look them up. Also, the service inspection is confusing because I'm not sure what that does or is for at all 
+
+# Suggest the improvements to make on the control interface. Sketch your solution and justify your design decisions.
+
+
+
