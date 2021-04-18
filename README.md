@@ -10,7 +10,7 @@ Simple design
 ### Cons
 The bottom right has a toggle menu that makes it a little complex to adjust while driving
 ### This is good or bad because 
-This is easy to understand and the font is of a good size, which makes it easy to glance at and understand while driving however there is more room for display features so you can see more information about the status of the vehicle at one time.
+This is easy to understand and the font is of a good size, which makes it easy to glance at and understand while driving. However there is more room for the individual display features so you can see the status of the vehicle easier while driving.
 
 ![images](https://user-images.githubusercontent.com/44306680/111263768-6781b400-85f4-11eb-9d69-910fdbdcdc23.jpeg)
 ## Second Example 
@@ -18,7 +18,7 @@ This is easy to understand and the font is of a good size, which makes it easy t
 ### Pros 
 The design is simplex and very compact 
 ### Cons
-May be difficult to read if you are driving or if you don't have great upclose vision, it could be too small to undesrstand
+May be difficult to read if you are driving or if you don't have great upclose vision, it could be too small to undesrstand, and the numbers on the speedometer are too close together.
 ### This is good or bad because 
 This is a good design for people who like something simple or who may get distracted more easily while driving
 
@@ -27,16 +27,17 @@ This is a good design for people who like something simple or who may get distra
 ## Third Example 
 
 ### Pros
-The lights draw attention perfectly to what is necessary, which is good for driving at night and not getting very distracted, very detailed picture with the car and wheels
+The lights draw attention perfectly to what is necessary, which is good for driving at night and not getting distracted, very detailed picture with the car and wheels
 ### Cons
 The deatiled picture of the car and wheel pressures may be a con if you are used to a move simple design, this may be overwhelming or make it difficult to find other settings. It could also be distracting while driving. 
 ### This is good or bad because 
+This is a bad design because it is very overwhelming, crowded, and would take a while to get used to
 
 ![proj2](https://user-images.githubusercontent.com/44306680/111263811-78cac080-85f4-11eb-929f-6aa9d7e078d9.jpeg)
 ## Fourth Example 
 
 ### Pros
-Its visually appealing 
+Its visually appealing and the spacing on the speedometer is great
 ### Cons
 It can be a little overwhelming of a design becuase the image of the car like that can be distracting and unnecessary
 ### This is good or bad because 
@@ -49,11 +50,10 @@ This is a bad design because it is unnecessary to have the car on the road like 
 Compact design
 
 ### Cons
-Has the rpms before the speed and that can be a little confusing, also most people dont drive much above 60 and the range to 60 is very small, so most of the speedometer is consumed by speeds you will never hit
+Most people dont drive much above 60 and the range to 60 is very small, so most of the speedometer is consumed by speeds you will never hit
 
 ### This is good or bad because 
-This is bad because it is not very easy on the eyes, and the order is confusing
-
+This is bad because it is not very easy on the eyes and the spacing isnt great
 
 
 
