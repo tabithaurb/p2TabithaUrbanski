@@ -41,7 +41,7 @@ Its visually appealing and the spacing on the speedometer is great
 ### Cons
 It can be a little overwhelming of a design becuase the image of the car like that can be distracting and unnecessary
 ### This is good or bad because 
-This is a bad design because it is unnecessary to have the car on the road like that, the image is too detailed and can be distracting 
+This is a bad design because it is unnecessary to have the car on the road like that, the image is too detailed and can be distracting and the tachometer is on the opposite side
 
 ![proj22](https://user-images.githubusercontent.com/44306680/111263828-7e280b00-85f4-11eb-895d-ece4be4daeb1.jpg)
 ## Fifth Example 
@@ -74,6 +74,4 @@ Turn signals, windsheild wipers, the gear shifter, and the door and trunk openin
 With this current design it might be confusing to understand what the symbols mean, you may have to look them up. Also, the service inspection is confusing because I'm not sure what that does or is for at all 
 
 ## Suggest the improvements to make on the control interface. Sketch your solution and justify your design decisions.
-
-
-
+I would put the warning lights all in the same area, instead of spread out everywhere. I would also add 0 mph to the speedometer, remove the service inspection and put the park symbol in the middle. 
