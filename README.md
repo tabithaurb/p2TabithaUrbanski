@@ -77,5 +77,7 @@ With this current design it might be confusing to understand what the symbols me
 I would put the warning lights all in the same area, instead of spread out everywhere. I would also add 0 mph to the speedometer, remove the service inspection and put the park symbol in the middle. 
 
 
+## My design for a better implementation 
+
 ![design](https://user-images.githubusercontent.com/44306680/115166445-cbc2e800-a078-11eb-982e-74b220b77919.PNG)
 
